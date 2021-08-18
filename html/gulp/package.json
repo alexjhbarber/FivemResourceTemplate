@@ -1,0 +1,22 @@
+{
+  "name": "basicstructrue",
+  "version": "1.0.0",
+  "description": "LUA NUI Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Grandad",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-minify": "^3.1.0",
+    "gulp-sass": "^5.0.0",
+    "sass": "^1.37.5"
+  },
+  "dependencies": {
+    "gulp-concat": "^2.6.1",
+    "webpack-mix": "^3.0.0"
+  }
+}
